@@ -4,4 +4,4 @@ from django.shortcuts import render
 
 # Create your views here.
 def Test1(request):
-    return HttpResponse('<h1> It is a bright morning</h1>')
+    return HttpResponse('<h1> It is a Bright morning</h1>')
